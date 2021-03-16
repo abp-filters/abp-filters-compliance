@@ -24,3 +24,5 @@ finanzen.ch#@##cookie-overlay
 finanzen.ch#@#.cookie-overlay
 ! Legal checks issues row 440
 @@||analytics.jst.ai/api/session^$domain=emarketer.com
+! FDA-2069
+politico.eu#@#.social-sharing
