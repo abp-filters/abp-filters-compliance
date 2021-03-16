@@ -26,3 +26,5 @@ finanzen.ch#@#.cookie-overlay
 @@||analytics.jst.ai/api/session^$domain=emarketer.com
 ! FDA-2069
 politico.eu#@#.social-sharing
+! FDA-2067
+faz.net#@#.js-sharebuttons
