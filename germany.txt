@@ -28,3 +28,5 @@ finanzen.ch#@#.cookie-overlay
 politico.eu#@#.social-sharing
 ! FDA-2067
 faz.net#@#.js-sharebuttons
+! FDA-2066
+@@||kameleoon.eu/ip.gif$domain=welt.de
