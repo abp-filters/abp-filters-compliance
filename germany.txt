@@ -30,3 +30,6 @@ politico.eu#@#.social-sharing
 faz.net#@#.js-sharebuttons
 ! FDA-2066
 @@||kameleoon.eu/ip.gif$domain=welt.de
+! FDA-2068
+boerse-online.de#@#.social_icons
+boerse-online.de#@#.social_wrapper
