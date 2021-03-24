@@ -35,3 +35,5 @@ boerse-online.de#@#.social_icons
 boerse-online.de#@#.social_wrapper
 ! FDA-2079
 @@||spark.cloud.funkedigital.de/spark.js^$script,domain=onmeda.de
+! FDA-2084
+gofeminin.de#@#a[href^="https://pubads.g.doubleclick.net/"]
