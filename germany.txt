@@ -34,4 +34,4 @@ faz.net#@#.js-sharebuttons
 boerse-online.de#@#.social_icons
 boerse-online.de#@#.social_wrapper
 ! FDA-2102
-@@||de.lzstatic.com/js^$script,domain=ladenzeile.de
+@@||de.lzstatic.com/js/*/gdpr/$script,domain=ladenzeile.de
