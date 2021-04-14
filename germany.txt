@@ -35,3 +35,5 @@ boerse-online.de#@#.social_icons
 boerse-online.de#@#.social_wrapper
 ! FDA-2102
 @@||de.lzstatic.com/js/*/gdpr/$script,domain=ladenzeile.de
+! FDA-2116
+@@||sats.manager-magazin.de^$xmlhttprequest,domain=manager-magazin.de
