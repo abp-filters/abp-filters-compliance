@@ -33,5 +33,3 @@ faz.net#@#.js-sharebuttons
 ! FDA-2068
 boerse-online.de#@#.social_icons
 boerse-online.de#@#.social_wrapper
-! FDA-2116
-@@||sats.manager-magazin.de^$xmlhttprequest,domain=manager-magazin.de
