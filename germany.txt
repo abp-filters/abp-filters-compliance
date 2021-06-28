@@ -33,3 +33,6 @@ faz.net#@#.js-sharebuttons
 ! FDA-2068
 boerse-online.de#@#.social_icons
 boerse-online.de#@#.social_wrapper
+! FDA-2302
+@@||aswpsdkus.com/notify/*/ua-html-prompt.min.js$domain=ran.de
+@@||aswpsdkus.com/notify/*/ua-sdk.min.js$domain=ran.de
