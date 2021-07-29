@@ -36,5 +36,3 @@ boerse-online.de#@#.social_wrapper
 ! FDA-2302
 @@||aswpsdkus.com/notify/*/ua-html-prompt.min.js$domain=ran.de
 @@||aswpsdkus.com/notify/*/ua-sdk.min.js$domain=ran.de
-! FDA-2366 and FDA-2367
-@@||googletagmanager.com/gtm.js$script,domain=finanzen.ch|finanzen.net|finanzen.at
