@@ -41,3 +41,5 @@ boerse-online.de#@#.social_wrapper
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=gamestar.de
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=gamestar.de
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=gamestar.de
+! FDA-2381
+@@||cdn.optimizely.com/js/^$script,domain=sat1.de
