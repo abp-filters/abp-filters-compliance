@@ -39,3 +39,4 @@ boerse-online.de#@#.social_wrapper
 ! FDA-2411 & FDA-2412
 @@||taboola.com/computerbild/*/json?$domain=computerbild.de
 @@||taboola.com/libtrc/$domain=bz-berlin.de|computerbild.de
+@@||taboola.com/bzde/trc/3/json?$domain=bz-berlin.de
