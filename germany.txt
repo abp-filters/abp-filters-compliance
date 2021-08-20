@@ -36,6 +36,6 @@ boerse-online.de#@#.social_wrapper
 ! FDA-2302
 @@||aswpsdkus.com/notify/*/ua-html-prompt.min.js$domain=ran.de
 @@||aswpsdkus.com/notify/*/ua-sdk.min.js$domain=ran.de
-! FDA-2411
+! FDA-2411 & FDA-2412
 @@||taboola.com/computerbild/*/json?$domain=computerbild.de
-@@||taboola.com/libtrc/$domain=computerbild.de
+@@||taboola.com/libtrc/$domain=bz-berlin.de|computerbild.de
