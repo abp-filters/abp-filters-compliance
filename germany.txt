@@ -40,3 +40,9 @@ boerse-online.de#@#.social_wrapper
 @@||taboola.com/computerbild/*/json?$domain=computerbild.de
 @@||taboola.com/libtrc/$domain=bz-berlin.de|computerbild.de
 @@||taboola.com/bzde/trc/3/json?$domain=bz-berlin.de
+! FDA-2424
+@@||cookielaw.org^$domain=politico.com
+politico.com#@##onetrust-consent-sdk
+politico.com#@##onetrust-banner-sdk
+politico.com#@#.grecaptcha-badge
+politico.com#@#.social-tools
