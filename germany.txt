@@ -46,3 +46,6 @@ politico.com#@##onetrust-consent-sdk
 politico.com#@##onetrust-banner-sdk
 politico.com#@#.grecaptcha-badge
 politico.com#@#.social-tools
+! FDA-2475
+meinestadt.de#@#.twitter-timeline
+@@||platform.twitter.com/js/timeline.$script,third-party,domain=meinestadt.de
