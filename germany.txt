@@ -46,5 +46,6 @@ politico.com#@##onetrust-consent-sdk
 politico.com#@##onetrust-banner-sdk
 politico.com#@#.grecaptcha-badge
 politico.com#@#.social-tools
-! FDA-2572 | FDA-2573 | FDA-2574 | FDA-2575 | FDA-2576
-@@||trc.taboola.com/*/trc/*/json?tim=$domain=travelbook.de|stylebook.de|rollingstone.de|metal-hammer.de|jetzt.de
+! FDA-2572 | FDA-2573 | FDA-2574 | FDA-2575 | FDA-2576 | FDA-2577
+@@||trc.taboola.com/*/trc/*/json?tim=$domain=travelbook.de|stylebook.de|rollingstone.de|metal-hammer.de|jetzt.de|sport1.de
+@@||taboola.com/libtrc/$script,domain=sport1.de
