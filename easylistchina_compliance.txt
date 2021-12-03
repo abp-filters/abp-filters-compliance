@@ -1,0 +1,139 @@
+! Not to block pre-roll ad on Chinese Websites.
+! 2020.8.15
+!-----------------------Android-----------------------!
+!https://m.tv.sohu.com/u/vw/100730476.shtml
+@@||m.aty.sohu.com^
+@@||itc.cn/?prod=rtb&
+@@||itc.*^prod=ad&
+
+!https://m.v.qq.com/x/page/b/z/4/b05191ohrz4.html?=
+@@.qq.com/*.mp4?
+@@||l.qq.com/lview?
+@@||livew.l.qq.com/livemsg?
+@@||gtimg.com/adplugin/js/adplayer.js
+
+!http://m.iqiyi.com/
+
+!https://m.youku.com/video/id_XMzUwMDU1MzMyMA==.html
+@@||mf.atm.youku.com^
+@@||cibntv.net/youku/*.mp4?
+
+!https://m.douban.com/movie/
+!No pre-roll ad
+
+!https://m.bilibili.com/
+!No pre-roll ad
+
+!http://m.cctv.cn/index.shtml
+!No pre-roll ad
+
+!http://m.v.baidu.com/
+!No pre-roll ad
+
+!http://m.le.com/vplay_30755136.html
+@@||ark.letv.com^
+
+!http://m.360kan.com/
+!No pre-roll ad
+
+!http://www.1905.com/vod/play/m/1274952.shtml
+!No pre-roll ad
+
+!https://www.dy2018.com/
+!No pre-roll ad
+
+!http://m.mtime.cn
+!No pre-roll ad
+
+!http://m.pptv.com/show/nia64Np4EdLIVkics.html
+@@||asimgs.pplive.cn^*.mp4
+@@||de.as.pptv.com/ikandelivery/
+
+!http://compaign.tudou.com/v/674852094.html
+!No pre-roll ad
+
+!http://m.56.com/c/v98720352.shtml
+!Same as tv.sohu.com
+
+!http://www.xunlei.com/
+!No pre-roll ad
+
+!http://v.ifeng.com/dyn/m/video/4192952/index.shtml
+!No pre-roll ad
+
+!http://m.baofeng.com/video/434/video-37-3763934.html
+!No pre-roll ad
+
+!https://m.mgtv.com/b/156380/4360335.html
+@@||da.mgtv.com^
+
+!-----------------------   PC  -----------------------!
+!https://tv.sohu.com/20180219/n600400144.shtml
+@@||v.aty.sohu.com/v?
+
+!https://v.qq.com/x/cover/8itzxvis4st3389.html
+!Flashplayer
+@@||livew.l.qq.com/crossdomain.xml
+
+!https://v.sports.qq.com/#/cover/mzc00200sg4o5hp/b31122z7rt9
+@@||lts*.qq.com^*.ts?index=
+
+!http://www.iqiyi.com/
+@@||iqiyi.com/show2?
+
+!http://v.youku.com/v_show/id_XMzU0NzUyNzgwNA==.html
+!Flashplayer
+@@||valf.atm.youku.com^
+
+!https://v.youku.com/v_show/id_XMzU0NzUyNzgwNA==.html
+@@||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
+
+!https://movie.douban.com/trailer/218198/#content
+!No pre-roll ad
+
+!https://www.bilibili.com/video/av22078143/
+!No pre-roll ad
+
+!http://tv.cntv.cn/video/VSET100375214799/fae0f649f09e479295e03a88323c3456
+!No pre-roll ad
+
+!http://v.baidu.com/
+!No pre-roll ad
+
+!http://www.le.com/ptv/vplay/31386730.html
+
+!http://www.360kan.com/
+!No pre-roll ad
+
+!http://www.1905.com/vod/play/m/1274952.shtml
+@@||afpssp.alimama.com^$domain=1905.com
+@@||50zera.com^$domain=1905.com
+
+!https://www.dy2018.com/
+!No pre-roll ad
+
+!http://news.mtime.com/2018/04/24/1580004.html
+!No pre-roll ad
+
+!http://v.pptv.com/show/On1a2ECmFlS3NZ0.html?rcc_src=www_index
+@@||de.as.pptv.com/crossdomain.xml
+@@||asimgs.pplive.cn^*.flv
+
+!http://new-play.tudou.com/v/XMzUyNTUzODE3Ng==.html
+!No pre-roll ad
+
+!http://www.56.com/w62/play_album-aid-14487560_vid-MTUwMTM4MzMy.html
+!Same as tv.sohu.com
+
+!http://www.xunlei.com/
+!No pre-roll ad
+
+!http://v.ifeng.com/video_13600165.shtml
+@@||ifeng.com/mfp/mfpMultipleDelivery.do
+
+!http://www.baofeng.com/play/484/play-837484.html
+!No pre-roll ad
+
+!https://www.mgtv.com/b/303114/4337875.html
+
+! THE END
