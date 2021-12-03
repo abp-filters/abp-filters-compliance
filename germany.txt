@@ -53,3 +53,6 @@ politico.com#@#.social-tools
 @@||scdn.cxense.com/cx.cce.js$domain=handelsblatt.com
 @@||cdn.cxense.com/cx.js$domain=handelsblatt.com
 @@||api.cxense.com/public/widget/data?$domain=handelsblatt.com
+! FDA-2612
+@@||adnxs-simple.com/mob?$xmlhttprequest,domain=sportbild.bild.de
+@@||asadcdn.com/adlib/*$script,domain=sportbild.bild.de
