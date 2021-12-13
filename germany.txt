@@ -56,3 +56,7 @@ sueddeutsche.de##.trc-content-sponsored
 @@||sueddeutsche.de^$generichide
 @@||taboola.com^*/json?tim=$domain=sueddeutsche.de
 @@||taboola.com/libtrc/$domain=sueddeutsche.de
+! FDA-2638
+finanzen.ch#@#div[id^="adnz_"]
+finanzen.ch#@#.adnz-ad-placeholder
+finanzen.ch#@#.bc-ad__appnexus
