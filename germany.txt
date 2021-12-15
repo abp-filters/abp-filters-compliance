@@ -49,10 +49,3 @@ politico.com#@#.social-tools
 ! FDA-2572 | FDA-2573 | FDA-2574 | FDA-2575 | FDA-2576 | FDA-2577 | FDA-2579 | FDA-2584 | FDA-2585 | FDA-2588 | FDA-2590
 @@||trc.taboola.com/*/trc/*/json?tim=$domain=travelbook.de|stylebook.de|rollingstone.de|metal-hammer.de|jetzt.de|sport1.de|fitbook.de|musikexpress.de|sportbild.bild.de|techbook.de|myhomebook.de
 @@||taboola.com/libtrc/$script,domain=sport1.de|myhomebook.de
-! FDA-2637
-sueddeutsche.de##.trc_related_container div[data-item-syndicated="true"]
-sueddeutsche.de##.trc-content-sponsoredUB
-sueddeutsche.de##.trc-content-sponsored
-@@||sueddeutsche.de^$generichide
-@@||taboola.com^*/json?tim=$domain=sueddeutsche.de
-@@||taboola.com/libtrc/$domain=sueddeutsche.de
