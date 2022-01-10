@@ -51,3 +51,5 @@ politico.com#@#.social-tools
 @@||taboola.com/libtrc/$script,domain=sport1.de|myhomebook.de
 ! FDA-2671
 @@||widgets.trustedshops.com/$image,script,domain=lesershop24.de
+! FDA-2670
+@@||scdn.cxense.com/cx.js$domain=welt.de
