@@ -53,6 +53,7 @@ politico.com#@#.social-tools
 @@||widgets.trustedshops.com/$image,script,domain=lesershop24.de
 ! FDA-2670
 @@||scdn.cxense.com/cx.js$domain=welt.de
-! FDA-2672
-@@||googletagmanager.com/gtm.js?$domain=idealo.de
+! FDA-2672 | FDA-2675
+@@||googletagmanager.com/gtm.js?$domain=idealo.de|idealo.at
 @@||hotjar.com^$domain=idealo.de
+@@||siteintercept.qualtrics.com/*$domain=idealo.at
