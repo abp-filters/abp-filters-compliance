@@ -57,3 +57,5 @@ politico.com#@#.social-tools
 @@||googletagmanager.com/gtm.js?$domain=idealo.de|idealo.at
 @@||hotjar.com^$domain=idealo.de
 @@||siteintercept.qualtrics.com/*$domain=idealo.at
+! FDA-2674
+wetter.com#@#div[id^="div-gpt-"]
