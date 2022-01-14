@@ -56,5 +56,3 @@ politico.com#@#.social-tools
 ! FDA-2672 | FDA-2675
 @@||hotjar.com^$domain=idealo.de
 @@||siteintercept.qualtrics.com/*$domain=idealo.at
-! FDA-2674
-wetter.com#@#div[id^="div-gpt-"]
