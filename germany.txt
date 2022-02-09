@@ -56,3 +56,9 @@ politico.com#@#.social-tools
 ! FDA-2672 | FDA-2675
 @@||hotjar.com^$domain=idealo.de
 @@||siteintercept.qualtrics.com/*$domain=idealo.at
+! FDA-2755
+11freunde.de#@#a[href^="https://adclick.g.doubleclick.net/"]
+11freunde.de#@#div[data-google-query-id]
+11freunde.de#@#.js_deferred-ad
+@@||native.emsservice.de/teasers/*.json$domain=11freunde.de
+@@||native.emsservice.de/images/teaser*_*.jpeg$domain=11freunde.de
