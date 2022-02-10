@@ -62,3 +62,5 @@ politico.com#@#.social-tools
 11freunde.de#@#.js_deferred-ad
 @@||native.emsservice.de/teasers/*.json$domain=11freunde.de
 @@||native.emsservice.de/images/teaser*_*.jpeg$domain=11freunde.de
+! FDA-2760
+@@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
