@@ -58,3 +58,6 @@ politico.com#@#.social-tools
 @@||siteintercept.qualtrics.com/*$domain=idealo.at
 ! FDA-2760
 @@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
+! FDA-2803
+gamestar.de#@#a[href^="https://paid.outbrain.com/network/redir?"]
+@@||cgames.de/images/ad-creatives/*$image,domain=gamestar.de
