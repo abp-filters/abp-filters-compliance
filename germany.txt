@@ -58,3 +58,6 @@ politico.com#@#.social-tools
 @@||siteintercept.qualtrics.com/*$domain=idealo.at
 ! FDA-2760
 @@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
+! FDA-2824
+@@||technical-service.net^$xmlhttprequest,domain=vip.de
+@@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=vip.de
