@@ -61,3 +61,4 @@ politico.com#@#.social-tools
 ! FDA-2824
 @@||technical-service.net^$xmlhttprequest,domain=vip.de
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=vip.de
+! Sabina's unicorn
