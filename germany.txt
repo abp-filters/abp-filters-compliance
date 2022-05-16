@@ -18,7 +18,6 @@
 @@||cmp-proxy.idealo.de/Notice.$script,stylesheet,domain=idealo.de
 @@||bild.de/Notice.$script,stylesheet,domain=bild.de
 @@||consent.boerse-online.de/Notice.$script,stylesheet,domain=boerse-online.de
-! @@||cmp.gruenderszene.de/Notice.$script,stylesheet,domain=gruenderszene.de
 privacy-mgmt.com#@#.consent-content
 finanzen.ch#@##cookie-overlay
 finanzen.ch#@#.cookie-overlay
