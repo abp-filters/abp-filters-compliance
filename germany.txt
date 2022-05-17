@@ -57,3 +57,6 @@ politico.com#@#.social-tools
 @@||siteintercept.qualtrics.com/*$domain=idealo.at
 ! FDA-2760
 @@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
+! FDA-2963
+@@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
+@@||mps-gba.de/praeludium/ams.js?$domain=auto-motor-und-sport.de
