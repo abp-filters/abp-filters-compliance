@@ -60,3 +60,5 @@ politico.com#@#.social-tools
 ! FDA-2963
 @@||stroeerdigitalgroup.de/metatag/live/AMS/metaTag.min.js$domain=auto-motor-und-sport.de
 @@||mps-gba.de/praeludium/ams.js?$domain=auto-motor-und-sport.de
+! FDA-2966
+@@||googletagmanager.com/gtm.js?$domain=wetter.de
