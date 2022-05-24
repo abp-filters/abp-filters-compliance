@@ -43,7 +43,6 @@ kombi.de#@#.fusion-privacy-bar
 @@||politico.eu^$generichide
 @@||politico.com^$generichide
 @@||seloger.com^$generichide
-@@||sportbild.de^$generichide
 @@||testbild.de^$generichide
 @@||wieistmeineip.at^$generichide
 @@||wieistmeineip.ch^$generichide
@@ -55,12 +54,11 @@ kombi.de#@#.fusion-privacy-bar
 @@||wetter.de^$generichide
 @@||sixx.de^$generichide
 @@||rtl.de^$generichide
-@@||rtlnow.de^$generichide
 @@||vip.de^$generichide
 @@||kochbar.de^$generichide
 @@||gamechannel.de^$generichide
 @@||tvnow.de^$generichide
-@@||handelsblatt.de^$generichide
+@@||handelsblatt.com^$generichide
 @@||zeit.de^$generichide
 @@||geo.de^$generichide
 @@||stern.de^$generichide
