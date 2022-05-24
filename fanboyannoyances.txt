@@ -1,0 +1,72 @@
+! Allow cookie consent message blocked by Fanboy's Annoyance List
+
+! finanzen.net
+@@||scripts.finanzen.net/Content/Scripts/cmp/cmp.min.js?$domain=finanzen.net
+
+! immonet.de|sat1.de|prosieben.de|kabeleins.de|ran.de|sixx.de
+@@||usercentrics.eu^$domain=immonet.de|sat1.de|prosieben.de|kabeleins.de|ran.de|sixx.de
+
+! insider-inc.com
+@@||hs-banner.com/*.js$domain=insider-inc.com
+@@||js.hs-banner.com/cookie-banner-public/v1/activity/view^$xmlhttprequest,domain=insider-inc.com
+insider-inc.com#@##hs-eu-cookie-confirmation
+
+! kombi.de
+kombi.de#@#.fusion-privacy-bar
+
+! onmeda.de
+@@||consentmanager.mgr.consensu.org/delivery/$stylesheet,script,image,domain=onmeda.de
+
+! seloger.com
+@@||sdk.privacy-center.org^$script,domain=seloger.com
+
+! Domains without generichide
+@@||bike-bild.de^$generichide
+@@||boerse-online.de^$generichide
+@@||bz-berlin.de^$generichide
+@@||clever-tanken.de^$generichide
+@@||emarketer.com^$generichide
+@@||finanzen.at^$generichide
+@@||finanzen.ch^$generichide
+@@||idealo.at^$generichide
+@@||idealo.co.uk^$generichide
+@@||idealo.de^$generichide
+@@||idealo.es^$generichide
+@@||idealo.fr^$generichide
+@@||idealo.it^$generichide
+@@||immonet.de^$generichide
+@@||insider-inc.com^$generichide
+@@||insiderintelligence.com^$generichide
+@@||kombi.de^$generichide
+@@||meinestadt.de^$generichide
+@@||onmeda.de^$generichide
+@@||politico.eu^$generichide
+@@||politico.com^$generichide
+@@||seloger.com^$generichide
+@@||sportbild.de^$generichide
+@@||testbild.de^$generichide
+@@||wieistmeineip.at^$generichide
+@@||wieistmeineip.ch^$generichide
+@@||wieistmeineip.de^$generichide
+! @@||zuio.tv^$generichide
+@@||sat1.de^$generichide
+@@||prosieben.de^$generichide
+@@||wetter.com^$generichide
+@@||wetter.de^$generichide
+@@||sixx.de^$generichide
+@@||rtl.de^$generichide
+@@||rtlnow.de^$generichide
+@@||vip.de^$generichide
+@@||kochbar.de^$generichide
+@@||gamechannel.de^$generichide
+@@||tvnow.de^$generichide
+@@||handelsblatt.de^$generichide
+@@||zeit.de^$generichide
+@@||geo.de^$generichide
+@@||stern.de^$generichide
+@@||eltern.de^$generichide
+@@||brigitte.de^$generichide
+@@||gala.de^$generichide
+@@||faz.net^$generichide
+@@||11freunde.de^$generichide
+@@||auto-motor-und-sport.de^$generichide
