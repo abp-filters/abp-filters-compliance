@@ -56,7 +56,7 @@ kombi.de#@#.fusion-privacy-bar
 @@||rtl.de^$generichide
 @@||vip.de^$generichide
 @@||kochbar.de^$generichide
-@@||gamechannel.de^$generichide
+@@||gamechannel.com^$generichide
 @@||tvnow.de^$generichide
 @@||handelsblatt.com^$generichide
 @@||zeit.de^$generichide
