@@ -59,14 +59,3 @@ politico.com#@#.social-tools
 @@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
 ! FDA-2966
 @@||googletagmanager.com/gtm.js?$domain=wetter.de
-! FD-3083
-@@||asadcdn.com/adlib/pages/autobild.js$domain=autobild.de
-@@||asadcdn.com/adlib/libmodules/$script,domain=autobild.de
-||auto-bild.de/js/rd/google.js$domain=autobild.de
-||googletagservices.com/dcm/dcmads.js$domain=autobild.de
-||ad.doubleclick.net^$domain=autobild.de
-||2mdn.net^$domain=autobild.de
-||tpc.googlesyndication.com^$domain=autobild.de
-||track.webgains.com/link.html?wglinkid=$script,domain=autobild.de
-||a.df-srv.de^$domain=autobild.de
-||adnxs-simple.com/creative/$domain=autobild.de
