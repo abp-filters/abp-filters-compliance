@@ -59,3 +59,5 @@ politico.com#@#.social-tools
 @@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
 ! FDA-2966
 @@||googletagmanager.com/gtm.js?$domain=wetter.de
+! FD-3109
+sportbild.bild.de##div[data-tr-doc-type="dt=InlineAd|st=BTOAdTag"]
