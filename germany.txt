@@ -60,5 +60,4 @@ politico.com#@#.social-tools
 ! FDA-2966
 @@||googletagmanager.com/gtm.js?$domain=wetter.de
 ! FD-3133
-@@||asadcdn.com/adlib/$xmlhttprequest,domain=autobild.de
-@@||asadcdn.com/adlib/beta/branches/abtest/libmodules/extensions/$stylesheet,domain=autobild.de
+@@||asadcdn.com/adlib/$stylesheet,domain=autobild.de
