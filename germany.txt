@@ -59,3 +59,7 @@ politico.com#@#.social-tools
 @@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
 ! FDA-2966
 @@||googletagmanager.com/gtm.js?$domain=wetter.de
+! FD-3209
+kombi.de#@##left-ad
+kombi.de#@##right-ad
+kombi.de#@##top-ad
