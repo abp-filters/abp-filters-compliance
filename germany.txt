@@ -59,3 +59,5 @@ politico.com#@#.social-tools
 @@||cs3.wettercomassets.com/wcomv5/images/ADS/tirol_logos/*.png$domain=wetter.com
 ! FDA-2966
 @@||googletagmanager.com/gtm.js?$domain=wetter.de
+! FD-3245
+@@||sats.manager-magazin.de/rest/v*/delivery?$domain=manager-magazin.de
