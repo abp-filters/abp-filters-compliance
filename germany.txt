@@ -61,3 +61,5 @@ politico.com#@#.social-tools
 @@||googletagmanager.com/gtm.js?$domain=wetter.de
 ! FD-3245
 @@||sats.manager-magazin.de/rest/v*/delivery?$domain=manager-magazin.de
+! FD-3282
+stern.de#@#.ad-element
