@@ -63,3 +63,6 @@ politico.com#@#.social-tools
 @@||sats.manager-magazin.de/rest/v*/delivery?$domain=manager-magazin.de
 ! FD-3282
 stern.de#@#.ad-element
+@@||g.doubleclick.net/tag/js/gpt.js$domain=stern.de
+@@||g.doubleclick.net/gpt/pubads_impl_$domain=stern.de
+@@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=stern.de
