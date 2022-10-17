@@ -66,3 +66,6 @@ stern.de#@#.ad-element
 @@||g.doubleclick.net/tag/js/gpt.js$domain=stern.de
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=stern.de
 @@||g.doubleclick.net/gampad/ads?$script,xmlhttprequest,domain=stern.de
+! FD-3320
+@@||google-analytics.com/gtm/optimize.js$domain=focus.de
+@@||googletagmanager.com/gtm.js$domain=focus.de
