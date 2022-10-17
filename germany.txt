@@ -69,3 +69,6 @@ stern.de#@#.ad-element
 ! FD-3320
 @@||google-analytics.com/gtm/optimize.js$domain=focus.de
 @@||googletagmanager.com/gtm.js$domain=focus.de
+! FD-3322
+@@||cleverpush.com/channel/loader/
+@@||cleverpush.com/sdk/
