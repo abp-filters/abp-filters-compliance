@@ -68,3 +68,5 @@ politico.com#@#.social-tools
 @@||cdn.cxense.com/cx.cce.js$domain=businessinsider.de
 @@||cdn.cxense.com/cx.js$domain=businessinsider.de
 @@||api.cxense.com/public/widget/data?json=$domain=businessinsider.de
+! FD-3367
+@@||cleverpush.com/sdk/$domain=mycleverpush.com
