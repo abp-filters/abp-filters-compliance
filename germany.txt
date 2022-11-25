@@ -70,3 +70,5 @@ politico.com#@#.social-tools
 @@||api.cxense.com/public/widget/data?json=$domain=businessinsider.de
 ! FD-3367
 @@||cleverpush.com/sdk/$domain=mycleverpush.com
+! FD-3411
+@@||pushwoosh.com^$third-party,domain=wetter.com
