@@ -72,3 +72,5 @@ politico.com#@#.social-tools
 @@||cleverpush.com/sdk/$domain=mycleverpush.com
 ! FD-3411
 @@||pushwoosh.com^$third-party,domain=wetter.com
+! FD-3423
+@@||chartbeat.com^$third-party,domain=focus.de
