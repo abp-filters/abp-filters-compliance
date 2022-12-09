@@ -72,3 +72,5 @@ politico.com#@#.social-tools
 @@||cleverpush.com/sdk/$domain=mycleverpush.com
 ! FD-3411
 @@||pushwoosh.com^$third-party,domain=wetter.com
+! FD-3439
+insider.com#@#.commerce-coupons-module
