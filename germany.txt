@@ -74,3 +74,8 @@ politico.com#@#.social-tools
 @@||pushwoosh.com^$third-party,domain=wetter.com
 ! FD-3439
 insider.com#@#.commerce-coupons-module
+! FD-3452
+@@||asadcdn.com/adlib/$domain=autobild.de
+@@||googletagmanager.com/gtm.js$script,domain=autobild.de
+@@||googleapis.com^$script,stylesheet,domain=autobild.de
+
