@@ -79,4 +79,6 @@ insider.com#@#.commerce-coupons-module
 @@||googletagmanager.com/gtm.js$script,domain=autobild.de
 @@||googleapis.com^$script,stylesheet,domain=autobild.de
 !FD-3504
-/web-push/init.$domain=~finanzen.ch|~finanzen.net
+@@||scripts.finanzen.at/Content/Scripts/web-push/init.min.js$domain=finanzen.at
+@@||scripts.finanzen.ch/Content/Scripts/web-push/init.min.js$domain=finanzen.ch
+@@||scripts.finanzen.net/Content/Scripts/web-push/init.min.js$domain=finanzen.net
