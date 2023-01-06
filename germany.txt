@@ -82,10 +82,3 @@ insider.com#@#.commerce-coupons-module
 @@||scripts.finanzen.at/Content/Scripts/web-push/init.min.js$domain=finanzen.at
 @@||scripts.finanzen.ch/Content/Scripts/web-push/init.min.js$domain=finanzen.ch
 @@||scripts.finanzen.net/Content/Scripts/web-push/init.min.js$domain=finanzen.net
-!FD-3512
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=computerbild.de
-@@||asadcdn.com/adlib/$domain=computerbild.de
-@@||asadcdn.com/assets/video/$domain=computerbild.de
-@@||api.cxense.com/public/widget/data$domain=computerbild.de
-@@||cxense.com/cx.js$domain=computerbild.de
-
