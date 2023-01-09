@@ -82,11 +82,3 @@ insider.com#@#.commerce-coupons-module
 @@||scripts.finanzen.at/Content/Scripts/web-push/init.min.js$domain=finanzen.at
 @@||scripts.finanzen.ch/Content/Scripts/web-push/init.min.js$domain=finanzen.ch
 @@||scripts.finanzen.net/Content/Scripts/web-push/init.min.js$domain=finanzen.net
-!FD-3521
-@@||showheroes.com/spot/iframe?$script,domain=rollingstone.de
-@@||showheroes.com/pubtag.js$domain=rollingstone.de
-@@||showheroes.com/spot/$xmlhttprequest,domain=rollingstone.de
-@@||showheroes.com/publishertag.js$domain=rollingstone.de
-@@||ads.viralize.tv/player/$xmlhttprequest,domain=rollingstone.de
-@@||ib.adnxs.com/ut/v3$xmlhttprequest,domain=rollingstone.de
-@@||asadcdn.com/adlib/$domain=rollingstone.de
