@@ -82,3 +82,5 @@ insider.com#@#.commerce-coupons-module
 @@||scripts.finanzen.at/Content/Scripts/web-push/init.min.js$domain=finanzen.at
 @@||scripts.finanzen.ch/Content/Scripts/web-push/init.min.js$domain=finanzen.ch
 @@||scripts.finanzen.net/Content/Scripts/web-push/init.min.js$domain=finanzen.net
+! FD-3707
+kombi.de#@##top-ad
