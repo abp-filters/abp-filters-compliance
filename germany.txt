@@ -84,4 +84,3 @@ insider.com#@#.commerce-coupons-module
 @@||scripts.finanzen.net/Content/Scripts/web-push/init.min.js$domain=finanzen.net
 ! FD-3741
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
-
