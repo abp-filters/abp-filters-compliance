@@ -92,3 +92,9 @@ insiderintelligence.com#@#.osano-cm-window
 @@||cmp.osano.com^$script,subdocument,xmlhttprequest,domain=insider.com|insiderintelligence.com
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=boerse-online.de|immonet.de
 @@||js.hs-banner.com^$domain=insider-inc.com
+! FD-4027
+@@/borlabs-cookie/*$~script,domain=kombi.de
+kombi.de#@##BorlabsCookieBox
+kombi.de#@#.BorlabsCookie
+kombi.de#@#div.show-cookie-box
+kombi.de#@#.cookie-box
