@@ -98,3 +98,7 @@ kombi.de#@##BorlabsCookieBox
 kombi.de#@#.BorlabsCookie
 kombi.de#@#div.show-cookie-box
 kombi.de#@#.cookie-box
+! FD-4028
+@@||consentmanager.net^$third-party,domain=onmeda.de
+onmeda.de#@#.cmpwrapper
+onmeda.de#@#.cmpboxWelcomeGDPR
