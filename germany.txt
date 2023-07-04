@@ -93,4 +93,4 @@ insiderintelligence.com#@#.osano-cm-window
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=boerse-online.de|immonet.de
 @@||js.hs-banner.com^$domain=insider-inc.com
 ! FD-4030
-@@||cmp.tvspielfilm.de^
+@@||cmp.tvspielfilm.de^$domain=tvspielfilm.de
