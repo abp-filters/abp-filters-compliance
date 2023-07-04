@@ -94,3 +94,7 @@ insiderintelligence.com#@#.osano-cm-window
 @@||js.hs-banner.com^$domain=insider-inc.com
 ! FD-4030
 @@||cmp.tvspielfilm.de^$domain=tvspielfilm.de
+! FD-4028
+@@||consentmanager.net^$third-party,domain=onmeda.de
+onmeda.de#@#.cmpwrapper
+onmeda.de#@#.cmpboxWelcomeGDPR
