@@ -104,3 +104,5 @@ onmeda.de#@#.cmpwrapper
 onmeda.de#@#.cmpboxWelcomeGDPR
 ! FD-4030
 @@||cmp.tvspielfilm.de^$domain=tvspielfilm.de
+! FD-4241
+@@/sdk.privacy-center.$script,domain=seloger.com
