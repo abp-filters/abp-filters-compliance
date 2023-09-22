@@ -106,3 +106,5 @@ onmeda.de#@#.cmpboxWelcomeGDPR
 @@||cmp.tvspielfilm.de^$domain=tvspielfilm.de
 ! FD-4241
 @@/sdk.privacy-center.$script,domain=seloger.com
+! 
+insider.com#@#.osano-cm-window
