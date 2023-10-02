@@ -108,3 +108,5 @@ onmeda.de#@#.cmpboxWelcomeGDPR
 @@/sdk.privacy-center.$script,domain=seloger.com
 ! 
 insider.com#@#.osano-cm-window
+! FD-4270
+@@||scripts.finanzen.net/js/cmp/cmp.min.js
