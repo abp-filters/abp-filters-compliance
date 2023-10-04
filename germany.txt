@@ -110,3 +110,5 @@ onmeda.de#@#.cmpboxWelcomeGDPR
 insider.com#@#.osano-cm-window
 ! FD-4270
 @@||scripts.finanzen.net/js/cmp/cmp.min.js
+! FD-287 | FD-4288
+video.sixx.de,sat1.de#@#cmp-banner
