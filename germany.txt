@@ -112,3 +112,6 @@ insider.com#@#.osano-cm-window
 @@||scripts.finanzen.net/js/cmp/cmp.min.js
 ! FD-287 | FD-4288
 video.sixx.de,sat1.de#@#cmp-banner
+! FD-4424
+kombi.de#@##left-ad
+kombi.de#@##right-ad
