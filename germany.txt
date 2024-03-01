@@ -112,3 +112,14 @@ insider.com#@#.osano-cm-window
 @@||scripts.finanzen.net/js/cmp/cmp.min.js
 ! FD-287 | FD-4288
 video.sixx.de,sat1.de#@#cmp-banner
+! FD-4875
+@@||cdn.taboola.com/libtrc/*/loader.js$script
+@@||cdn.taboola.com/libtrc/impl.$script
+@@||cdn.taboola.com/libtrc/card-interference-detector.$script
+@@||taboola.com^*/json?tim=$xmlhttprequest
+#@#.trc_rbox_div
+#@#.trc_excludable
+#@#.trc_related_container
+#@#.trc_rbox_border_elm
+#@#.trc_rbox
+#@##taboola-below-article-thumbnails
