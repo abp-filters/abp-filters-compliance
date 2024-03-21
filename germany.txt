@@ -125,3 +125,5 @@ video.sixx.de,sat1.de#@#cmp-banner
 #@##taboola-below-article-thumbnails
 ! FD-5385 | FD-5386 | FD-5389 | FD-5390 | FD-5393
 @@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
+! FD-5387
+@@||sams.manager-magazin.de^$domain=manager-magazin.de
