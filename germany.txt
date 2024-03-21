@@ -124,4 +124,4 @@ video.sixx.de,sat1.de#@#cmp-banner
 #@#.trc_rbox
 #@##taboola-below-article-thumbnails
 ! FD-5386
-@@||outbrainimg.com^$third-party,domain=
+@@||outbrainimg.com^$third-party,domain=fitbook.de
