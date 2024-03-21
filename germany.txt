@@ -123,5 +123,5 @@ video.sixx.de,sat1.de#@#cmp-banner
 #@#.trc_rbox_border_elm
 #@#.trc_rbox
 #@##taboola-below-article-thumbnails
-! FD-5385 | FD-5386 | FD-5389 | FD-5390
-@@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|rollingstone.de|stylebook.de
+! FD-5385 | FD-5386 | FD-5389 | FD-5390 | FD-5393
+@@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
