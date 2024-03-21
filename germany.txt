@@ -98,8 +98,8 @@ kombi.de#@##BorlabsCookieBox
 kombi.de#@#.BorlabsCookie
 kombi.de#@#div.show-cookie-box
 kombi.de#@#.cookie-box
-! FD-4028
-@@||consentmanager.net^$third-party,domain=onmeda.de
+! FD-4028 | FD-5394
+@@||consentmanager.net^$third-party,domain=axelspringer-syndication.de|onmeda.de
 onmeda.de#@#.cmpwrapper
 onmeda.de#@#.cmpboxWelcomeGDPR
 ! FD-4030
@@ -127,3 +127,5 @@ video.sixx.de,sat1.de#@#cmp-banner
 @@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
 ! FD-5387
 @@||sams.manager-magazin.de^$domain=manager-magazin.de
+! FD-5394
+axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
