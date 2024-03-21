@@ -132,3 +132,7 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 ! FD-5395
 @@/houseads/*^$domain=11freunde.de
 11freunde.de#@#.house-ad
+! FD-5391
+@@||trmwidget.eu^$subdocument,document,domain=bz-berlin.de
+@@||trmwidget.eu^$domain=bz-berlin.de
+@@||transmatico.com^$domain=bz-berlin.de
