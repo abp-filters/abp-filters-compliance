@@ -129,6 +129,3 @@ video.sixx.de,sat1.de#@#cmp-banner
 @@||sams.manager-magazin.de^$domain=manager-magazin.de
 ! FD-5394
 axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
-! FD-5395
-@@/houseads/*^$domain=11freunde.de
-11freunde.de#@#.house-ad
