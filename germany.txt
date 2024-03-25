@@ -123,9 +123,18 @@ video.sixx.de,sat1.de#@#cmp-banner
 #@#.trc_rbox_border_elm
 #@#.trc_rbox
 #@##taboola-below-article-thumbnails
-! FD-5385 | FD-5386 | FD-5389 | FD-5390 | FD-5393
-@@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
 ! FD-5387
 @@||sams.manager-magazin.de^$domain=manager-magazin.de
 ! FD-5394
 axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
+! FD-5391
+@@||trmwidget.eu^$subdocument,document,domain=bz-berlin.de
+@@||trmwidget.eu^$domain=bz-berlin.de
+@@||transmatico.com^$domain=bz-berlin.de
+! FD-5384
+auto-motor-und-sport.de#@#a[href^="https://adclick.g.doubleclick.net/"]
+@@||g.doubleclick.net/tag/js/gpt.js$domain=auto-motor-und-sport.de
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=auto-motor-und-sport.de
+@@||adclick.g.doubleclick.net/pcs/$popup,domain=auto-motor-und-sport.de
+@@||g.doubleclick.net/gampad/ads?*&prev_scp=tagname%3Dsticky&$xmlhttprequest,domain=auto-motor-und-sport.de
+@@||tpc.googlesyndication.com/simgad/$image,domain=auto-motor-und-sport.de
