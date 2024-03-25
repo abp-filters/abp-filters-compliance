@@ -128,7 +128,6 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 ! FD-5391
 @@||trmwidget.eu^$subdocument,document,domain=bz-berlin.de
 @@||trmwidget.eu^$domain=bz-berlin.de
-@@||transmatico.com^$domain=bz-berlin.de
 ! FD-5384
 auto-motor-und-sport.de#@#a[href^="https://adclick.g.doubleclick.net/"]
 @@||g.doubleclick.net/tag/js/gpt.js$domain=auto-motor-und-sport.de
