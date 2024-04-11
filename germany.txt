@@ -128,3 +128,5 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 ! FD-5391
 @@||trmwidget.eu^$subdocument,document,domain=bz-berlin.de
 @@||trmwidget.eu^$domain=bz-berlin.de
+! FD-5704
+axelspringeracademy.com#@##sb_instagram
