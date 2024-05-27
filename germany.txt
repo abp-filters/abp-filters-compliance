@@ -133,5 +133,6 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=motorradonline.de
 @@||g.doubleclick.net/pcs/$popup,domain=motorradonline.de
 @@||g.doubleclick.net/tag/js/gpt.js$domain=motorradonline.de
+@@||mps-gba.de/ads/adserving/close_black.png$domain=motorradonline.de
 @@||tpc.googlesyndication.com/simgad/$image,domain=motorradonline.de
 motorradonline.de#@#a[href^="https://adclick.g.doubleclick.net/"]
