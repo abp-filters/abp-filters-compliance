@@ -117,6 +117,7 @@ video.sixx.de,sat1.de#@#cmp-banner
 @@||cdn.taboola.com/libtrc/impl.$script
 @@||cdn.taboola.com/libtrc/card-interference-detector.$script
 @@||taboola.com^*/json?tim=$xmlhttprequest
+@@||trc.taboola.com^*/trc/*/json?
 #@#.trc_rbox_div
 #@#.trc_excludable
 #@#.trc_related_container
