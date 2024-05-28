@@ -128,11 +128,3 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 ! FD-5391
 @@||trmwidget.eu^$subdocument,document,domain=bz-berlin.de
 @@||trmwidget.eu^$domain=bz-berlin.de
-! FD-6116
-@@||g.doubleclick.net/gampad/ads?*&prev_scp=tagname%3Dsticky&$xmlhttprequest,domain=motorradonline.de
-@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=motorradonline.de
-@@||g.doubleclick.net/pcs/$popup,domain=motorradonline.de
-@@||g.doubleclick.net/tag/js/gpt.js$domain=motorradonline.de
-@@||mps-gba.de/ads/adserving/close_black.png$domain=motorradonline.de
-@@||tpc.googlesyndication.com/simgad/$image,domain=motorradonline.de
-motorradonline.de#@#a[href^="https://adclick.g.doubleclick.net/"]
