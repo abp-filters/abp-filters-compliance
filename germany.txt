@@ -84,12 +84,13 @@ insider.com#@#.commerce-coupons-module
 @@||scripts.finanzen.net/Content/Scripts/web-push/init.min.js$domain=finanzen.net
 ! FD-3741
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
-! FD-3989 | FD-4031
+! FD-3989 | FD-4031 | FD-6827
 gofeminin.de#@#.cmpwrapper
 gofeminin.de#@#.cmpboxWelcomeGDPR
 insider-inc.com#@##hs-eu-cookie-confirmation
 insiderintelligence.com#@#.osano-cm-window
-@@||cmp.osano.com^$script,subdocument,xmlhttprequest,domain=insider.com|insiderintelligence.com
+emarketer.com#@#.osano-cm-dialog
+@@||cmp.osano.com^$script,subdocument,xmlhttprequest,domain=emarketer.com|insider.com|insiderintelligence.com
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=boerse-online.de|idealo.co.uk|immonet.de
 @@||js.hs-banner.com^$domain=insider-inc.com
 ! FD-4027
