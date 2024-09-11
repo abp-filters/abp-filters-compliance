@@ -125,6 +125,9 @@ video.sixx.de,sat1.de#@#cmp-banner
 #@#.trc_rbox_border_elm
 #@#.trc_rbox
 #@##taboola-below-article-thumbnails
+#@#.trc_spotlight_item
+#@#.trc-spotlight-first-recommendation
+#@#.trc-first-recommendation
 ! FD-5394
 axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 ! FD-5391
