@@ -137,3 +137,5 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 @@||mv.outbrain.com/Multivac/$script
 @@||widgets.outbrain.com^$script
 @@||outbrainimg.com^$third-party,image
+! FD-6974
+@@/notification.min.js$domain=myhomebook.de
