@@ -141,3 +141,6 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 @@/notification.min.js$domain=myhomebook.de
 ! FD-7002
 @@||consentmanager.net/delivery$script,domain=bildderfrau.de
+! FD-7003
+stepstone.de#@##GDPRConsentManagerContainer
+@@||tags.stepstone.com/utag/*/utag.js$domain=stepstone.de
