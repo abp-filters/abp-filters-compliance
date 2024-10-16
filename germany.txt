@@ -139,3 +139,5 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 @@||outbrainimg.com^$third-party,image
 ! FD-6974
 @@/notification.min.js$domain=myhomebook.de
+! FD-7002
+@@||consentmanager.net/delivery$script,domain=bildderfrau.de
