@@ -146,3 +146,5 @@ stepstone.de#@##GDPRConsentManagerContainer
 @@||tags.stepstone.com/utag/*/utag.js$domain=stepstone.de
 ! FD-7004
 @@||privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js$domain=upday.com
+! FD-7005 | FD-7006 | FD-7007 | FD-7008
+@@||cmp.usercentrics.eu^$script,xmlhttprequest,domain=idealo.it|idealo.fr|idealo.es|idealo.de|idealo.co.uk
