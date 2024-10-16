@@ -144,3 +144,5 @@ axelspringer-syndication.de#@#body:not([style*="hidden"]) .cmpboxWelcomeGDPR
 ! FD-7003
 stepstone.de#@##GDPRConsentManagerContainer
 @@||tags.stepstone.com/utag/*/utag.js$domain=stepstone.de
+! FD-7004
+@@||privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js$domain=upday.com
