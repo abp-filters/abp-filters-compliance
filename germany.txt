@@ -154,6 +154,3 @@ stepstone.de#@##GDPRConsentManagerContainer
 emarketer.com#@#.osano-cm-window
 ! FD-7045
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=kombi.de
-! FD-7205
-auto-motor-und-sport.de#@#.cleverpush-backdrop
-auto-motor-und-sport.de#@#.cleverpush-confirm
