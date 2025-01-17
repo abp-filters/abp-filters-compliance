@@ -156,8 +156,8 @@ stepstone.de#@##GDPRConsentManagerContainer
 @@||cmp.usercentrics.eu^$script,xmlhttprequest,domain=idealo.it|idealo.fr|idealo.es|idealo.de|idealo.co.uk
 ! FD-7009
 emarketer.com#@#.osano-cm-window
-! FD-7045
-@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=kombi.de
+! FD-7045 | FD-7279
+@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=kombi.de|idealo.at
 ! FD-7268
 focus.de#@#article[id^="teaser-"][data-placement]
 ! FD-7274
