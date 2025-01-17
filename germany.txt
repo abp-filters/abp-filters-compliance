@@ -162,3 +162,5 @@ emarketer.com#@#.osano-cm-window
 focus.de#@#article[id^="teaser-"][data-placement]
 ! FD-7274
 @@||sams.spiegel.de/ee/irl1/v1/interact?$domain=spiegel.de
+! FD-7276
+@@||sams.11freunde.de/ee/irl1/v1/interact?$domain=11freunde.de
