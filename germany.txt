@@ -164,3 +164,5 @@ focus.de#@#article[id^="teaser-"][data-placement]
 @@||sams.spiegel.de/ee/irl1/v1/interact?$domain=spiegel.de
 ! FD-7276
 @@||sams.11freunde.de/ee/irl1/v1/interact?$domain=11freunde.de
+! FD-7277
+@@||ttmetrics.faz.net/rest/v1/delivery?$domain=faz.net
