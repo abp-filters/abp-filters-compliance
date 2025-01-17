@@ -109,8 +109,8 @@ onmeda.de#@#.cmpboxWelcomeGDPR
 @@/sdk.privacy-center.$script,domain=seloger.com
 ! 
 insider.com#@#.osano-cm-window
-! FD-4270
-@@||scripts.finanzen.net/js/cmp/cmp.min.js
+! FD-4270 | FD-7281
+@@||scripts.finanzen.net/*/cmp/cmp.min.js
 ! FD-287 | FD-4288 | FD-6976
 sixx.de,sat1.de#@#cmp-banner
 ! FD-4875 | FD-7133
