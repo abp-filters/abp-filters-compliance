@@ -160,3 +160,5 @@ emarketer.com#@#.osano-cm-window
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=kombi.de
 ! FD-7268
 focus.de#@#article[id^="teaser-"][data-placement]
+! FD-7274
+@@||sams.spiegel.de/ee/irl1/v1/interact?$domain=spiegel.de
