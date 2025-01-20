@@ -160,8 +160,6 @@ stepstone.de#@##GDPRConsentManagerContainer
 emarketer.com#@#.osano-cm-window
 ! FD-7045 | FD-7279
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=kombi.de|idealo.at
-! FD-7268
-focus.de#@#article[id^="teaser-"][data-placement]
 ! FD-7274
 @@||sams.spiegel.de/ee/irl1/v1/interact?$domain=spiegel.de
 ! FD-7276
