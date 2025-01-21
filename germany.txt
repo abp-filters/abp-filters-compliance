@@ -170,3 +170,8 @@ emarketer.com#@#.osano-cm-window
 @@/iqadcontroller.$script,domain=manager-magazin.de
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$script,domain=manager-magazin.de
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=manager-magazin.de
+! FD-7293
+@@||googletagmanager.com/gtm.js?id$domain=gamestar.de
+@@||onesignal.com/api/v*/$domain=gamestar.de
+@@||onesignal.com/sdks/$domain=gamestar.de
+@@||static.cgames.de/gs_cb/assets/js/gtm.js$domain=gamestar.de
