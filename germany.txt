@@ -175,3 +175,8 @@ emarketer.com#@#.osano-cm-window
 @@||onesignal.com/api/v*/$domain=gamestar.de
 @@||onesignal.com/sdks/$domain=gamestar.de
 @@||static.cgames.de/gs_cb/assets/js/gtm.js$domain=gamestar.de
+! FD-7302
+@@||bildderfraude.cleverpush.com/iframe$domain=bildderfrau.de
+@@||runforrest.bildderfrau.de/nnamdnas.js?$domain=bildderfrau.de
+@@||static.cleverpush.com/channel/loader/*.js$domain=bildderfrau.de
+@@||static.cleverpush.com/sdk/chunk/*.js$domain=bildderfrau.de
