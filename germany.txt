@@ -180,3 +180,12 @@ emarketer.com#@#.osano-cm-window
 @@||runforrest.bildderfrau.de/nnamdnas.js?$domain=bildderfrau.de
 @@||static.cleverpush.com/channel/loader/*.js$domain=bildderfrau.de
 @@||static.cleverpush.com/sdk/chunk/*.js$domain=bildderfrau.de
+! FD-7329
+@@||asadcdn.com/adlib/$domain=fitbook.de
+@@||capi.connatix.com^$domain=fitbook.de
+@@||cd.connatix.com/connatix.player.js?$domain=fitbook.de
+@@||cds.connatix.com^$domain=fitbook.de
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=fitbook.de
+@@||g.doubleclick.net/tag/js/gpt.js$domain=fitbook.de
+@@||ib.adnxs.com/ut/v3$domain=fitbook.de
+fitbook.de#@#.cnx-player-wrapper
