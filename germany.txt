@@ -189,3 +189,9 @@ emarketer.com#@#.osano-cm-window
 @@||g.doubleclick.net/tag/js/gpt.js$domain=fitbook.de
 @@||ib.adnxs.com/ut/v3$domain=fitbook.de
 fitbook.de#@#.cnx-player-wrapper
+! FD-7342
+@@||api.embed.pinpoll.com/aipolls/$domain=sport1.de
+@@||embed.pinpoll.com/embed/$domain=sport1.de
+@@||pa.pinpoll.com/v1$domain=sport1.de
+@@||static.pinpoll.com/static/$domain=sport1.de
+@@||tools.pinpoll.com/global.js$domain=sport1.de
