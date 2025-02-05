@@ -200,3 +200,6 @@ handelsblatt.com##.ob-p.ob-dynamic-rec-container
 @@||handelsblatt.com^$generichide
 ! FD-7355
 @@||assets.adobedtm.com/101b76c36d9a/$domain=faz.net
+! FD-7358
+finanzen.ch##.yaleo-ad
+@@||pbjs.adnz.co/prebid.js?$domain=finanzen.ch
