@@ -203,3 +203,6 @@ handelsblatt.com##.ob-p.ob-dynamic-rec-container
 ! FD-7358
 finanzen.ch##.yaleo-ad
 @@||pbjs.adnz.co/prebid.js?$domain=finanzen.ch
+! FD-7357
+@@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=spiegel.de
+@@||benelph.de^$image,domain=spiegel.de
