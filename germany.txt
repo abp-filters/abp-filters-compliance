@@ -195,3 +195,5 @@ fitbook.de#@#.cnx-player-wrapper
 @@||pa.pinpoll.com/v1$domain=sport1.de
 @@||static.pinpoll.com/static/$domain=sport1.de
 @@||tools.pinpoll.com/global.js$domain=sport1.de
+! FD-7355
+@@||assets.adobedtm.com/101b76c36d9a/$domain=faz.net
