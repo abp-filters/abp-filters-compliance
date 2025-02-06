@@ -203,3 +203,7 @@ handelsblatt.com##.ob-p.ob-dynamic-rec-container
 ! FD-7357
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=spiegel.de
 @@||benelph.de^$image,domain=spiegel.de
+! FD-7366
+@@||zeit.de^$generichide
+zeit.de#@#.iqdcontainer
+zeit.de##.ob-widget:has(.ob-p.ob-dynamic-rec-container)
