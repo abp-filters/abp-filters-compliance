@@ -207,3 +207,5 @@ handelsblatt.com##.ob-p.ob-dynamic-rec-container
 @@||zeit.de^$generichide
 zeit.de#@#.iqdcontainer
 zeit.de##.ob-widget:has(.ob-p.ob-dynamic-rec-container)
+! FD-7391
+@@||a.omappapi.com/app/js/api.min.js$domain=finanzen.net
