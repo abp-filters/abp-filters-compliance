@@ -219,3 +219,7 @@ zeit.de##.ob-widget:has(.ob-p.ob-dynamic-rec-container)
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=stern.de
 @@||emsservice.de/molten/live/render.dynamic.js$domain=stern.de
 @@||emsservice.de/molten/live/render.layer.js$domain=stern.de
+! FD-7504
+@@||api.cxense.com/public/widget/data?json$domain=sport1.de
+@@||cdn.cxense.com/cx.cce.js$domain=sport1.de
+@@||cdn.cxense.com/cx.js$domain=sport1.de
