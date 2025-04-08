@@ -226,3 +226,6 @@ zeit.de##.ob-widget:has(.ob-p.ob-dynamic-rec-container)
 ! FD-7561
 @@||scripts.tracdelight.io/tracdelight.js?$domain=stylebook.de
 @@||widgets.tracdelight.io/iframe/$domain=stylebook.de
+! FD-7563
+@@||onesignal.com/api/v*/apps/$domain=autoagora.gr
+@@||onesignal.com/api/v*/sync/$domain=autoagora.gr
