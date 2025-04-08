@@ -237,8 +237,9 @@ zeit.de##.ob-widget:has(.ob-p.ob-dynamic-rec-container)
 @@||consent.cookiebot.com/*/cc.js?renew$domain=autobild.fi
 @@||consent.cookiebot.com/uc.js?cbid$domain=autobild.fi
 @@||googletagmanager.com/gtm.js?id$domain=autobild.fi
-! FD-7573
-@@||cookielaw.org^$domain=awin.com
-awin.com#@#.onetrust-pc-dark-filter
-awin.com#@##onetrust-banner-sdk
-awin.com#@##onetrust-consent-sdk
+! FD-7573|7568
+@@||cookielaw.org^$domain=autobild.pluska.sk|awin.com
+autobild.pluska.sk,awin.com#@#.onetrust-pc-dark-filter
+autobild.pluska.sk,awin.com#@##onetrust-banner-sdk
+autobild.pluska.sk,awin.com#@##onetrust-consent-sdk
+
