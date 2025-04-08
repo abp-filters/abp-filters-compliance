@@ -229,3 +229,5 @@ zeit.de##.ob-widget:has(.ob-p.ob-dynamic-rec-container)
 ! FD-7563
 @@||onesignal.com/api/v*/apps/$domain=autoagora.gr
 @@||onesignal.com/api/v*/sync/$domain=autoagora.gr
+! FD-7564
+@@||sdk.mrf.io/statics/marfeel-sdk.js?$domain=autobild.es
