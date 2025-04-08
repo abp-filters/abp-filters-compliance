@@ -244,3 +244,6 @@ autobild.pluska.sk,awin.com#@##onetrust-banner-sdk
 autobild.pluska.sk,awin.com#@##onetrust-consent-sdk
 ! FD-7569
 @@/wrapperMessagingWithoutDetection.js|$script,domain=autoexpress.co.uk
+! FD-7571
+@@/sdk.privacy-center.$script,domain=autoplus.fr
+
