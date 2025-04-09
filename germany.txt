@@ -246,4 +246,10 @@ autobild.pluska.sk,awin.com#@##onetrust-consent-sdk
 @@/wrapperMessagingWithoutDetection.js|$script,domain=autoexpress.co.uk
 ! FD-7571
 @@/sdk.privacy-center.$script,domain=autoplus.fr
-
+! FD-7575
+@@||cdn.cpex.cz/cmp/v*/cpex-cmp.min.js$domain=autotip.auto.cz
+@@||sdk.privacy-center.org/*/loader.js?$domain=autotip.auto.cz
+autotip.auto.cz#@##didomi-notice
+autotip.auto.cz#@#.didomi-notice-banner
+autotip.auto.cz#@#body:not(.didomi-popup-open) #didomi-host
+autotip.auto.cz#@#iframe[name="googlefcPresent"]
