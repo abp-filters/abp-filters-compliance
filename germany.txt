@@ -253,3 +253,10 @@ autotip.auto.cz#@##didomi-notice
 autotip.auto.cz#@#.didomi-notice-banner
 autotip.auto.cz#@#body:not(.didomi-popup-open) #didomi-host
 autotip.auto.cz#@#iframe[name="googlefcPresent"]
+! FD-7567
+@@||autobild.lt/wp-content/plugins/cookie-notice/*/front.min.*?$domain=autobild.lt
+autobild.lt#@##cookie-notice
+autobild.lt#@#.cn-position-bottom
+autobild.lt#@#.cookie-notice-container
+autobild.lt#@#div.cookie-notice-visible
+autobild.lt#@#.footer-container ~ div[class*="cookie-notice"]
