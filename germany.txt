@@ -233,9 +233,9 @@ zeit.de##.ob-widget:has(.ob-p.ob-dynamic-rec-container)
 @@||sdk.mrf.io/statics/marfeel-sdk.js?$domain=autobild.es
 @@||sdk.privacy-center.org/*/loader.js?$domain=autobild.es
 @@||sdk.privacy-center.org/sdk/*/modern/$domain=autobild.es
-! FD-7565
-@@||consent.cookiebot.com/*/cc.js?renew$domain=autobild.fi
-@@||consent.cookiebot.com/uc.js?cbid$domain=autobild.fi
+! FD-7565 | FD-7590
+@@||consent.cookiebot.com/*/cc.js?renew$domain=autobild.fi|icondigizine.de
+@@||consent.cookiebot.com/uc.js?cbid$domain=autobild.fi|icondigizine.de
 @@||googletagmanager.com/gtm.js?id$domain=autobild.fi
 ! FD-7573|7568
 @@||cookielaw.org^$domain=autobild.pluska.sk|awin.com
