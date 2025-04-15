@@ -260,3 +260,6 @@ autobild.lt#@#.cn-position-bottom
 autobild.lt#@#.cookie-notice-container
 autobild.lt#@#div.cookie-notice-visible
 autobild.lt#@#.footer-container ~ div[class*="cookie-notice"]
+! FD-7599
+@@||onesignal.com/api/v*/$domain=autoexpress.co.uk
+@@||onesignal.com/sdks/$domain=autoexpress.co.uk
