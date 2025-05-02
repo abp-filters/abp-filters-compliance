@@ -266,3 +266,5 @@ autobild.lt#@#.footer-container ~ div[class*="cookie-notice"]
 ! FD-7651
 @@||stepstone.de/viewlets/consent/consent-manager/de/assets/stepstone-de/ccm.js$domain=stepstone.de
 stepstone.de#@##GDPRConsentManagerContainer
+! FD-7669
+autobild.lt#@##social-links
