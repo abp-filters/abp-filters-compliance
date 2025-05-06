@@ -273,3 +273,5 @@ autobild.lt#@##social-links
 @@||consent.cookiebot.eu/Framework/IAB/consent-sdk*.js$domain=autobild.fi
 @@||consent.cookiebot.eu/uc.js?cbid$domain=autobild.fi
 @@||consentcdn.cookiebot.eu/sdk/bc-v4.min.html$domain=autobild.fi
+! FD-7711
+@@||sdk.privacy-center.org/sdk/*/modern$domain=autotip.auto.cz
