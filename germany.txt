@@ -275,3 +275,5 @@ autobild.lt#@##social-links
 @@||consentcdn.cookiebot.eu/sdk/bc-v4.min.html$domain=autobild.fi
 ! FD-7711
 @@||sdk.privacy-center.org/sdk/*/modern$domain=autotip.auto.cz
+! FD-7744
+@@||w.usabilla.com^$script,domain=autoweek.nl
