@@ -277,3 +277,11 @@ autobild.lt#@##social-links
 @@||sdk.privacy-center.org/sdk/*/modern$domain=autotip.auto.cz
 ! FD-7744
 @@||w.usabilla.com^$script,domain=autoweek.nl
+! FD-7914
+@@||cd.connatix.com/connatix.player.js?$domain=bz-berlin.de
+@@||cds.connatix.com/a/player.$domain=bz-berlin.de
+@@||cds.connatix.com/p/596856/$domain=bz-berlin.de
+@@||capi.connatix.com/core/$domain=bz-berlin.de
+@@||capi.connatix.com/tr/si?$domain=bz-berlin.de
+@@||ib.adnxs.com/ut/v3$domain=bz-berlin.de
+bz-berlin.de#@#.cnx-player-wrapper
