@@ -285,3 +285,5 @@ autobild.lt#@##social-links
 @@||capi.connatix.com/tr/si?$domain=bz-berlin.de
 @@||ib.adnxs.com/ut/v3$domain=bz-berlin.de
 bz-berlin.de#@#.cnx-player-wrapper
+! FD-7916
+@@||micro.rubiconproject.com/prebid/dynamic/*.js?$domain=bildderfrau.de
