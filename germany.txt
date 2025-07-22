@@ -290,3 +290,6 @@ bz-berlin.de#@#.cnx-player-wrapper
 ! FD-7937
 @@||asadcdn.com/adlib/$domain=bz-berlin.de
 @@||cds.connatix.com/p/598417/$domain=bz-berlin.de
+! FD-7938
+bildderfrau.de#@#.cleverpush-backdrop
+bildderfrau.de#@#.cleverpush-confirm
