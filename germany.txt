@@ -287,3 +287,6 @@ autobild.lt#@##social-links
 bz-berlin.de#@#.cnx-player-wrapper
 ! FD-7916
 @@||micro.rubiconproject.com/prebid/dynamic/*.js?$domain=bildderfrau.de
+! FD-7937
+@@||asadcdn.com/adlib/$domain=bz-berlin.de
+@@||cds.connatix.com/p/598417/$domain=bz-berlin.de
