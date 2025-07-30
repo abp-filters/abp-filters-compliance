@@ -282,7 +282,6 @@ autobild.lt#@##social-links
 @@||cds.connatix.com/a/player.$domain=bz-berlin.de
 @@||cds.connatix.com/p/596856/$domain=bz-berlin.de
 @@||capi.connatix.com/core/$domain=bz-berlin.de
-@@||capi.connatix.com/tr/si?$domain=bz-berlin.de
 @@||ib.adnxs.com/ut/v3$domain=bz-berlin.de
 bz-berlin.de#@#.cnx-player-wrapper
 ! FD-7916
@@ -307,3 +306,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||cds.connatix.com/p/600299/$domain=stylebook.de
 @@||capi.connatix.com/core/$domain=stylebook.de
 @@||capi.connatix.com/tr/si?$domain=stylebook.de
+! FD-7954
+@@||cds.connatix.com/p/600299/$domain=bz-berlin.de
