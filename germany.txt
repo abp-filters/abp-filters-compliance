@@ -293,3 +293,10 @@ bz-berlin.de#@#.cnx-player-wrapper
 ! FD-7938
 bildderfrau.de#@#.cleverpush-backdrop
 bildderfrau.de#@#.cleverpush-confirm
+! FD-7953
+@@||asadcdn.com/adlib/$domain=stylebook.de
+@@||cd.connatix.com/connatix.player.js?$domain=stylebook.de
+@@||cds.connatix.com/a/player.$domain=stylebook.de
+@@||cds.connatix.com/p/600299/$domain=stylebook.de
+@@||capi.connatix.com/core/$domain=stylebook.de
+@@||capi.connatix.com/tr/si?$domain=stylebook.de
