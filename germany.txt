@@ -308,3 +308,10 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||capi.connatix.com/tr/si?$domain=stylebook.de
 ! FD-7954
 @@||cds.connatix.com/p/600299/$domain=bz-berlin.de
+! 
+@@||ib.adnxs.com/ut/v3$domain=myhomebook.de|petbook.de|techbook.de
+@@||cds.connatix.com/p/$script,domain=myhomebook.de|petbook.de|techbook.de
+@@||cds.connatix.com/a/player.$domain=myhomebook.de|petbook.de|techbook.de
+@@||cd.connatix.com/connatix.player.js$domain=myhomebook.de|petbook.de|techbook.de
+@@||capi.connatix.com/core/$domain=myhomebook.de|petbook.de|techbook.de
+@@||asadcdn.com/adlib/$domain=myhomebook.de|petbook.de|techbook.de
