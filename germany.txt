@@ -305,7 +305,6 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||cds.connatix.com/a/player.$domain=stylebook.de
 @@||cds.connatix.com/p/600299/$domain=stylebook.de
 @@||capi.connatix.com/core/$domain=stylebook.de
-@@||capi.connatix.com/tr/si?$domain=stylebook.de
 ! FD-7954
 @@||cds.connatix.com/p/600299/$domain=bz-berlin.de
 ! 
