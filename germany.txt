@@ -286,7 +286,7 @@ bildderfrau.de#@#.cleverpush-confirm
 ! FD-8013 - 8018
 @@||gtm.idealo.*/gtm.js?$domain=idealo.at|idealo.co.uk|idealo.de|idealo.es|idealo.fr|idealo.it
 ! FD-8010 - 8012
-@@||asadcdn.com/adlib/pages/*.js
+@@||asadcdn.com/adlib/pages/*.js$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||asadcdn.com/adlib/beta/branches/abtest/hashMap.json$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||asadcdn.com/adlib/hashMap.json$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||asadcdn.com/adlib/libmodules/extensions/connatix.$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
@@ -303,3 +303,4 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||asadcdn.com/adlib/libmodules/desktop/analyseResponse.$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||asadcdn.com/adlib/libmodules/desktop/sightLoader.$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
 @@||asadcdn.com/adlib/libmodules/desktop/setPageOpts.$domain=bz-berlin.de|fitbook.de|myhomebook.de|petbook.de|stylebook.de|techbook.de|travelbook.de|welt.de
+
