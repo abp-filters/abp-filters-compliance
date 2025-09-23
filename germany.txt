@@ -304,3 +304,5 @@ bildderfrau.de#@#.cleverpush-confirm
 ! FD-8080
 @@||cmp.dreamlab.pl^$xmlhttprequest,script,domain=auto-swiat.pl
 @@||csr.onet.pl^$xmlhttprequest,domain=auto-swiat.pl
+! FD-8098
+@@||sdk.mrf.io/statics/marfeel-sdk.js$domain=businessinsider.es
