@@ -293,3 +293,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||csr.onet.pl^$xmlhttprequest,domain=auto-swiat.pl|businessinsider.com.pl
 ! FD-8098
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=businessinsider.es
+! FD-8112
+@@||connatix.com$domain=finanzen.net
