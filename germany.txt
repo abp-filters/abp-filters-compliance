@@ -295,3 +295,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=businessinsider.es
 ! FD-8112
 @@||connatix.com$domain=finanzen.net
+! FD-8151
+@@||businessinsider.de/wp-content/uploads/*_300x250.$image,domain=businessinsider.de
