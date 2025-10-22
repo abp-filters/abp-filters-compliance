@@ -297,3 +297,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||connatix.com$domain=finanzen.net
 ! FD-8151
 @@||businessinsider.de/wp-content/uploads/*_300x250.$image,domain=businessinsider.de
+! FD-8152
+@@||static.cleverpush.com^$domain=bildderfrau.de
