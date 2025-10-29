@@ -307,3 +307,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||googletagmanager.com/gtm.js?$domain=idealo.es|idealo.co.uk|idealo.fr|idealo.it
 ! FD-8185
 @@||googletagmanager.com/gtm.js?$domain=businessinsider.jp
+@@||g.doubleclick.net/tag/js/gpt.js$domain=businessinsider.jp
+@@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=businessinsider.jp
