@@ -299,3 +299,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||businessinsider.de/wp-content/uploads/*_300x250.$image,domain=businessinsider.de
 ! FD-8152
 @@||static.cleverpush.com^$domain=bildderfrau.de
+! FD-8169
+@@||sophi.io/assets/demeter/$script,domain=faz.net
