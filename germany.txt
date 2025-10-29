@@ -303,3 +303,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||sophi.io/assets/demeter/$script,domain=faz.net
 ! FD-8171
 @@||adspirit.de/adclick.php$popup,domain=jetzt.de
+! FD-8174 | FD-8175 | FD-8176 | FD-8178
+@@||googletagmanager.com/gtm.js?$domain=idealo.es|idealo.co.uk|idealo.fr|idealo.it
