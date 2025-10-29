@@ -301,3 +301,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||static.cleverpush.com^$domain=bildderfrau.de
 ! FD-8169
 @@||sophi.io/assets/demeter/$script,domain=faz.net
+! FD-8171
+@@||adspirit.de/adclick.php$popup,domain=jetzt.de
