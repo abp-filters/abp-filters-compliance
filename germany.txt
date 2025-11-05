@@ -309,3 +309,8 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||googletagmanager.com/gtm.js?$domain=businessinsider.jp
 @@||g.doubleclick.net/tag/js/gpt.js$domain=businessinsider.jp
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=businessinsider.jp
+! FD-8203
+@@||adspirit.de/adclick.php$popup,domain=sueddeutsche.de
+@@||adspirit.de/banner/$image,domain=sueddeutsche.de
+@@||adspirit.de/adscript.php$script,domain=sueddeutsche.de
+@@||adspirit.de/adasync.min.js$domain=sueddeutsche.de
