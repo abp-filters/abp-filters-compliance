@@ -314,3 +314,5 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||adspirit.de/banner/$image,domain=sueddeutsche.de
 @@||adspirit.de/adscript.php$script,domain=sueddeutsche.de
 @@||adspirit.de/adasync.min.js$domain=sueddeutsche.de
+! FD-8204
+@@||sdk.mrf.io/statics/marfeel-sdk.js$domain=computerhoy.20minutos.es
