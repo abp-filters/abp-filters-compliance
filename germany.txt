@@ -323,6 +323,7 @@ bildderfrau.de#@#.cleverpush-confirm
 @@||googletagmanager.com/gtm.js?id=GTM-M7PZ8QT^$domain=autoplus.fr
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=autoplus.fr
 @@||icu.newsroom.bi/ingest.php$xmlhttprequest,domain=autoplus.fr
+autoplus.fr#@#.follow-text
 ! FD-8238
 @@||cxense.com/public/widget/data?$script,domain=businessinsider.jp
 @@||cxense.com/cx.js$domain=businessinsider.jp
