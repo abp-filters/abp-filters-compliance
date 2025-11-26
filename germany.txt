@@ -327,7 +327,7 @@ autoplus.fr#@#.follow-text
 ! FD-8238
 @@||cxense.com/public/widget/data?$script,domain=businessinsider.jp
 @@||cxense.com/cx.js$domain=businessinsider.jp
-!
+! FD-8266
 @@||asadcdn.com/adlib/pages/*.js$domain=businessinsider.de
 @@||asadcdn.com/adlib/beta/branches/abtest/hashMap.json$domain=businessinsider.de
 @@||asadcdn.com/adlib/hashMap.json$domain=businessinsider.de
