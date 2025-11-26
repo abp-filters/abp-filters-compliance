@@ -327,3 +327,24 @@ autoplus.fr#@#.follow-text
 ! FD-8238
 @@||cxense.com/public/widget/data?$script,domain=businessinsider.jp
 @@||cxense.com/cx.js$domain=businessinsider.jp
+!
+@@||asadcdn.com/adlib/pages/*.js$domain=businessinsider.de
+@@||asadcdn.com/adlib/beta/branches/abtest/hashMap.json$domain=businessinsider.de
+@@||asadcdn.com/adlib/hashMap.json$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/extensions/connatix.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/renderedCallback.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/xstream.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/passbackCall.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/defineTag.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/doAdCall.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/calc.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/addCSS.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/autoReloader.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/init.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/ast.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/analyseResponse.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/sightLoader.$domain=businessinsider.de
+@@||asadcdn.com/adlib/libmodules/desktop/setPageOpts.$domain=businessinsider.de
+@@||ib.adnxs.com/ut/v3$domain=businessinsider.de
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=businessinsider.de
+@@||connatix.com^$domain=businessinsider.de
